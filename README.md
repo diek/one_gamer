@@ -1,13 +1,10 @@
-## Simple Example of Django Abstract Classes
+## Simple Example of Multiple Choice Quiz
 
-### Using the example from the Django Project documentation [Abract Base Classes](https://docs.djangoproject.com/en/3.2/topics/db/models/#abstract-base-classes)
-
-### Clone project
-`$ git clone git@github.com:diek/AbstractDjango.git`
-
+### Clone project into your workspacee
+`$ git clone git@github.com:diek/one_gamer.git`
 
 ### Move into project folder
-`$ cd AbstractDjango`
+`$ cd one_gamer`
 
 ### Create a virtual environment (this can be created elsewhere if you prefer, and understand how)
 `$ python3 -m venv _env`
@@ -29,10 +26,11 @@
 1. Edit SECRET_KEY
 
 ### Add project tables and intitial data to database
-1.    `$ ./manage.py migrate student_tracker`
+1.    `$ ./manage.py migrate gamerr`
 1.    `$ ./manage.py migrate`
 
 
-### Load data related to student_tracker
-1.    `$ ./manage.py loaddata student_data.json`
-1.    `$ ./manage.py loaddata teacher_data.json`
+### Load data related to gamee
+1.    `$ ./manage.py loaddata quiz`
+1.    `$ ./manage.py loaddata question`
+1.    `$ ./manage.py loaddata answer`
