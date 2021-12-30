@@ -12,13 +12,11 @@ https://docs.djangoproject.com/en/3.2/ref/settings/
 
 from os import getenv
 
-import dj_database_url
 from dotenv import load_dotenv
 from pathlib import Path
 
 load_dotenv()
 
-DATABASE_URL = getenv("DATABASE_URL")
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -58,22 +56,15 @@ DEV_TOOLS = [
 
 INSTALLED_APPS = DJANGO_APPS + PROJECT_APPS + DEV_TOOLS
 
-DEBUG_TOOLBAR_CONFIG = {
-    "SHOW_TOOLBAR_CALLBACK": show_toolbar,
-}
 
 INTERNAL_IPS = ('127.0.0.1')
 
 
-def show_toolbar(request):
-    return True
-
-
 MIDDLEWARE = [
-    'debug_toolbar.middleware.DebugToolbarMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
+    'debug_toolbar.middleware.DebugToolbarMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
