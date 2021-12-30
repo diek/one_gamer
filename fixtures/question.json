@@ -1,0 +1,352 @@
+[
+  {
+    "model": "gamer.question",
+    "pk": 1,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "In 1768 Captain James Cook set out to explore which ocean?",
+      "order": 1
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 2,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "What is actually electricity?",
+      "order": 2
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 3,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "Which of the following is not an international organisation?",
+      "order": 3
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 4,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "Which of the following disorders is the fear of being alone?",
+      "order": 4
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 5,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "Which of the following is a song by the German heavy metal band “Scorpions”?",
+      "order": 5
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 6,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "What is the speed of sound?",
+      "order": 6
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 7,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "Which is the easiest way to tell the age of many trees?",
+      "order": 7
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 8,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "What do we call a newly hatched butterfly?",
+      "order": 8
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 9,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "In total how many novels were written by the Bronte sisters?",
+      "order": 9
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 10,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "Which did Viking people use as money?",
+      "order": 10
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 11,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "What was the first country to use tanks in combat during World War I?",
+      "order": 11
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 12,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "What is the main component of the sun?",
+      "order": 12
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 13,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "Goulash is a type of beef soup in which country?",
+      "order": 13
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 14,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "Which two months are named after Emperors of the Roman Empire?",
+      "order": 14
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 15,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "Which of the following animals can run the fastest?",
+      "order": 15
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 16,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "Where did the powers of Spiderman come from?",
+      "order": 16
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 17,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "What is the most points that a player can score with a single throw in darts?",
+      "order": 17
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 18,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "In the United States football is called soccer. So what is American football called in the United Kingdom?",
+      "order": 18
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 19,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "Which of the following actors was the first one to play James Bond?",
+      "order": 19
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 20,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "Which of the following songs was the top-selling hit in 2019?",
+      "order": 20
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 21,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "In which country is Transylvania?",
+      "order": 21
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 22,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "Which football club does Jordan Henderson play for?",
+      "order": 22
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 23,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "The two biggest exporters of beers in Europe are Germany and …",
+      "order": 23
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 24,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "The phrase: ”I think therefore I am” was coined by which philosopher?",
+      "order": 24
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 25,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "In the series “Game of Thrones” Winterfell is the ancestral home of which family?",
+      "order": 25
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 26,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "Who is known as the Patron Saint of Spain?",
+      "order": 26
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 27,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "What does the term “SOS” commonly stand for?",
+      "order": 27
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 28,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "Which company is known for publishing the Mario video gamer?",
+      "order": 28
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 29,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "We often use sodium bicarbonate in the kitchen. What is its other name?",
+      "order": 29
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 30,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "Which was the first film by Disney to be produced in colour?",
+      "order": 30
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 31,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "What is the name of the first book of the Old Testament in the Bible?",
+      "order": 31
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 32,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "Neil Armstrong was the first astronaut in the world to step foot on the moon. Who was the second?",
+      "order": 32
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 33,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "How many time zones are there in total in the world?",
+      "order": 33
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 34,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "What is the rarest type of blood in the human body?",
+      "order": 34
+    }
+  },
+  {
+    "model": "gamer.question",
+    "pk": 35,
+    "fields":
+    {
+      "quiz": 1,
+      "question": "Cu is the chemical symbol for which element?",
+      "order": 35
+    }
+  }
+]

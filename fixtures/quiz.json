@@ -1,0 +1,12 @@
+[
+  {
+    "model": "gamer.quiz",
+    "pk": 1,
+    "fields":
+    {
+      "quiz_name": "General Knowledge",
+      "description": "A basic multiple choice quiz",
+      "created": "2021-12-08T20:55:54.419Z"
+    }
+  }
+]
