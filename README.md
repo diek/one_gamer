@@ -1,27 +1,29 @@
-## Simple Example of Multiple Choice Quiz
+## Simple Example of Multiple Choice Quiz  
 
-### Clone project into your workspacee
-`$ git clone git@github.com:diek/one_gamer.git`
+### Clone project into your workspace  
+`$ git clone git@github.com:diek/one_gamer.git`  
 
 ### Move into project folder
 `$ cd one_gamer`
 
-### Create a virtual environment (this can be created elsewhere if you prefer, and understand how)
-`$ python3 -m venv _env`
+### Create a virtual environment (this can be created elsewhere if you prefer, and understand how)  
+`$ python3 -m venv _env`  
 
-### Activate the virtual environment you have just created
-* Linux & Mac  (Zsh/Bash, Fish)
-`$ source _env/bin/activate`
-`$ source _env/bin/activate.fish`
+### Activate the virtual environment you have just created  
+* Linux & Mac (Zsh/Bash)  
+`$ source _env/bin/activate`  
 
-* Windows
-`C:\workspace>_env\Scripts\activate.bat`
+* Linux & Mac (Fish)  
+`$ source _env/bin/activate.fish`  
+
+* Windows  
+`C:\workspace>_env\Scripts\activate.bat`  
 
 
-### Install Development Requirements
-`$ pip install -r requirements.txt`
+### Install Development Requirements  
+`$ pip install -r requirements.txt`  
 
-### Environment Variables
+### Environment Variables  
 1. Rename `.env.example` => `.env`
 1. Edit SECRET_KEY
 
